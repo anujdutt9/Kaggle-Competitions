@@ -16,7 +16,6 @@ https://www.kaggle.com/c/flower-classification-with-tpus/overview
 
 # Final Score
 
-![Output](Flower-Classification-TPU/EfficientNet-DenseNet-Ensemble.png "Output")
 ![Output](EfficientNet-DenseNet-Ensemble.png "Output")
 
 # References
