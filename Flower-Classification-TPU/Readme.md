@@ -18,6 +18,8 @@ https://www.kaggle.com/c/flower-classification-with-tpus/overview
 
 ![Output](EfficientNet-DenseNet-Ensemble.png "Output")
 
+The above best score was achieved using the ensemble of EfficientNet-B7 and DenseNet-121 models.
+
 # References
 
 1. Baseline Kernel: https://www.kaggle.com/mgornergoogle/getting-started-with-100-flowers-on-tpu
